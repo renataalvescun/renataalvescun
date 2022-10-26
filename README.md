@@ -1,4 +1,4 @@
-<h1> Olá! Bem vindo(a) </h1>
+<h1> Olá! Seja bem-vindo(a), sou a Renata </h1>
 <br>
 <div align="center"> 
   <h3> Sobre mim </h3>
