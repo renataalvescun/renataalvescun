@@ -5,11 +5,9 @@
   <p> Sou... </p>
 </div>
 <br>
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=missmiau&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=missmiau&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+
+
+
   <br>
 <div align="center">
   <img height="34em" src="https://user-images.githubusercontent.com/100436812/197931492-1172cf92-7c56-4769-a5ae-704c5c938702.png">
