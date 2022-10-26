@@ -2,7 +2,7 @@
 <br>
 <div align="center"> 
   <h3> Sobre mim </h3>
-  <p> Sou... </p>
+  <p> Estudo ADS e gosto de fazer capas de livros </p>
 </div>
 <br>
 
