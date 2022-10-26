@@ -1,4 +1,4 @@
-<h1> Olá! Seja bem-vindo(a) <img height="90em" src="https://user-images.githubusercontent.com/100436812/198046887-c398face-2b0f-4d05-b0b6-445259e3b29f.gif">
+<h1> Olá! Seja bem-vindo(a)  <img height="90em" src="https://user-images.githubusercontent.com/100436812/198046887-c398face-2b0f-4d05-b0b6-445259e3b29f.gif">
  </h1>
 <br>
 <div align="center">
@@ -12,18 +12,19 @@
  </div>
 
  ##
- ### Conecte-se comigo:
- ### Connect with me:
- 
- <div align="center">
-  <a href="renataalvescunh@gmail.com"> <img height="34em" src="https://user-images.githubusercontent.com/100436812/197931492-1172cf92-7c56-4769-a5ae-704c5c938702.png">     </a> 
-  <a href="https://www.behance.net/capikun"> <img height="34em" src="https://user-images.githubusercontent.com/100436812/197931258-82cc57be-6520-4b49-b924-0bd06dd7e7e5.png">     </a>
-  <a href="https://www.instagram.com/drawarys/"> <img height="34em" src="https://user-images.githubusercontent.com/100436812/197930261-51539a12-ce69-4843-8a20-20e9faab694c.png">     </a>
-  <a href="renataalvescunh@gmail.com"> <img height="34em" src="https://user-images.githubusercontent.com/100436812/197930657-36276c3c-64f3-469c-ad45-7ec379846c84.png">     </a>
+ ### Conecte-se comigo: 
+ ### Connect with me: 
+
+<br> 
+<div align="center">
+  <a href="https://www.instagram.com/drawarys/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> </a> 
+  <a href = "mailto:renataalvescunh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
+  <a href="https://www.linkedin.com/in/renataalvesz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>  
 </div>
 
+
 ##
-### Linguagens
+### Linguagens:
 ### Languages:
 
 <div align="center">
@@ -33,7 +34,7 @@
 </div>
 
 ##
-### Ferramentas
+### Ferramentas:
 ### Tools:
 
 <div align="center">
@@ -48,7 +49,9 @@
 ##
 ### Visitas no perfil:
 ### Profile Visits:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/missmiau/count.svg"/>  
+</div>
 
-   <img src="https://profile-counter.glitch.me/missmiau/count.svg" />  
 
 
