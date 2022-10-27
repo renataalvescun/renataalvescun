@@ -9,7 +9,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/missmiau">
+  <a href="https://github.com/renataalvescun">
   <img height = "178em" src = "https://github-readme-stats.vercel.app/api?username=renataalvescun&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
  <!-- <img height = "118em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=renataalvescun&layout=compact&langs_count=16&theme=omni" /> -->
  </div>
