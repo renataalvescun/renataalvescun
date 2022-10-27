@@ -4,11 +4,14 @@
 <div align="center">
   <img height="200em" src="https://user-images.githubusercontent.com/100436812/198044637-a2783a41-cee8-414c-abeb-10da77f64b20.gif">
  </div>
- 
+ <div align="center">
+  <p> Me chamo Renata Alves, tenho 23 anos e moro em São Paulo - SP. Atualmente estudo Analise e Desenvolvimento de Sistemas e faço cursos online sobre programação e     tecnologia. <p>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/missmiau">
   <img height = "178em" src = "https://github-readme-stats.vercel.app/api?username=renataalvescun&show_icons=true&theme=omni&include_all_commits=true&count_private=true" />
-  <img height = "118em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=renataalvescun&layout=compact&langs_count=16&theme=omni" />
+ <!-- <img height = "118em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=renataalvescun&layout=compact&langs_count=16&theme=omni" /> -->
  </div>
 
  ##
