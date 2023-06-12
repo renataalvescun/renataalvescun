@@ -1,5 +1,6 @@
 ##
-###    Olá! Seja bem-vindo(a)
+<h1 align=center> Olá! Seja bem-vindo(a) </h1>
+
 <br>
 <div align="center">
   <img height="200em" src="https://user-images.githubusercontent.com/100436812/198044637-a2783a41-cee8-414c-abeb-10da77f64b20.gif">
