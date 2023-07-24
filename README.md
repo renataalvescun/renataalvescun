@@ -2,9 +2,6 @@
 <h1 align=center> Olá! Seja bem-vindo(a) </h1>
 
 <br>
-<div align="center">
-  <img height="200em" src="https://user-images.githubusercontent.com/100436812/198044637-a2783a41-cee8-414c-abeb-10da77f64b20.gif">
- </div>
  <div align="center">
   <p> Me chamo Renata Alves, tenho 23 anos e moro em São Paulo - SP. Atualmente estudo Analise e Desenvolvimento de Sistemas e faço cursos online sobre programação e tecnologia. <p>
  <p> 💖 É isso! Fique á vontade para verificar meu perfil! 💖 </p>
