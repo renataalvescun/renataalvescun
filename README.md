@@ -4,7 +4,6 @@
 <br>
  <div align="center">
   <p> Me chamo Renata Alves, tenho 23 anos e moro em São Paulo - SP. Atualmente estudo Analise e Desenvolvimento de Sistemas e faço cursos online sobre programação e tecnologia. <p>
- <p> 💖 É isso! Fique á vontade para verificar meu perfil! 💖 </p>
 </div>
 <br>
 
