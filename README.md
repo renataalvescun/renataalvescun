@@ -1,6 +1,6 @@
 
 
-## ✨ Olá, eu sou a Renata!
+# ✨ Olá, eu sou a Renata!
 
 ``` 📖 Estou sempre estudando novas coisas e tentando aprender algo cada vez mais!  ```
 <br><br>
