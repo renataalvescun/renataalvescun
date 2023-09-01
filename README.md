@@ -7,7 +7,6 @@
 🚍 Moro em SP<br>
 💻 Estudo Análise e Desenvolvimento de Sistemas<br>
 🎨 Gosto de ler, desenhar e escrever! <br><br>
-[![](https://visitcount.itsvg.in/api?id=renataalvescun&icon=9&color=4)](https://visitcount.itsvg.in)
 
 
 
