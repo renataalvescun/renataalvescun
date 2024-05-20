@@ -4,10 +4,11 @@
 
 ``` 📖 Estou sempre estudando novas coisas e tentando aprender algo cada vez mais!  ```
 <br><br>
-🚍 Moro em SP<br>
-💻 Estudo Análise e Desenvolvimento de Sistemas<br>
-⚙ Tenho interesse em desenvolvimento web, design, mobile, banco de dados, segurança da informação, entre outros. <br>
-🎨 Gosto de ler, desenhar e escrever! <br><br>
+
+
+```
+Repositório de estudos!
+````
 
 
 
